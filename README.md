@@ -23,7 +23,7 @@ When someone brings there phone near the card, current is induced in the antenna
 
 <img width="486" height="555" alt="Schematic" src="https://github.com/user-attachments/assets/331dc718-dde1-4308-bb50-34f7bd81847a" />
 
-##BOM
+## BOM Hardware
 
 
 | ID | Name | Designator | Footprint | Quantity | Manufacturer Part | Manufacturer | Supplier | Supplier Part | Price ($) | Link |
