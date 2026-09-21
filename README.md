@@ -23,7 +23,9 @@ When someone brings there phone near the card, current is induced in the antenna
 
 <img width="486" height="555" alt="Schematic" src="https://github.com/user-attachments/assets/331dc718-dde1-4308-bb50-34f7bd81847a" />
 
-## BOM Hardware
+## BOM 
+
+### Hardware
 
 
 | ID | Name | Designator | Footprint | Quantity | Manufacturer Part | Manufacturer | Supplier | Supplier Part | Price ($) | Link |
@@ -34,3 +36,11 @@ When someone brings there phone near the card, current is induced in the antenna
 | 4 | 47Ω | R1 | R0603 | 1 | 0603WAF470JT5E | UNI-ROYAL(厚声) | LCSC | C23182 | 0.009 | [Link](https://www.lcsc.com/product-detail/C23182.html?utm_source=gemini) |
 | 5 | NT3H2111W0FHKH | U1 | XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH | 1 | NT3H2111W0FHKH | NXP(恩智浦) | LCSC | C710403 | 0.649 | [Link](https://www.lcsc.com/product-detail/C710403.html?utm_source=gemini) |
 | **Total** |  |  |  |  |  |  |  |  | **0.690** |  |
+
+### PCB 
+
+| Item / Description | Price ($) |
+| --- | --- |
+| Merchandise Subtotal (Parts & PCB) | 65.21 |
+| Shipping Fee | 34.23 |
+| **Total Order Cost** | **99.44** |
