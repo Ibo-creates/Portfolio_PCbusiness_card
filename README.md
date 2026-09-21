@@ -44,3 +44,5 @@ When someone brings there phone near the card, current is induced in the antenna
 | Merchandise Subtotal (Parts & PCB) | 65.21 |
 | Shipping Fee | 34.23 |
 | **Total Order Cost** | **99.44** |
+
+<img width="1440" height="900" alt="Cart 2 " src="https://github.com/user-attachments/assets/19d3d8c4-b44d-4e8f-8d52-ee94237b55e1" />
