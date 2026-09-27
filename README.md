@@ -42,7 +42,7 @@ When someone brings there phone near the card, current is induced in the antenna
 | Item / Description | Price ($) |
 | --- | --- |
 | Merchandise Subtotal (Parts & PCB) | 24.46 |
-| Shipping Fee | 24.52 |
+| Shipping Fee | 17.44 |
 | **Total Order Cost** | **48.98** |
 
 <img width="1440" height="900" alt="Screenshot 2026-09-27 at 4 30 17 PM" src="https://github.com/user-attachments/assets/354a9578-3174-409e-a7e5-796cc1da786d" />
