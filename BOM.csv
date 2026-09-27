@@ -5,5 +5,5 @@ ID,Name / Description,Designator,Footprint,Quantity,Manufacturer Part,Manufactur
 4,47Ω,R1,R0603,1,0603WAF470JT5E,UNI-ROYAL(厚声),LCSC,C23182,$0.009,$0.009,https://www.lcsc.com/product-detail/C23182.html
 5,NT3H2111W0FHKH,U1,XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH,1,NT3H2111W0FHKH,NXP(恩智浦),LCSC,C710403,$0.649,$0.649,https://www.lcsc.com/product-detail/C710403.html
 -,Merchandise Subtotal (Parts & PCB),-,-,-,-,-,JLCPCB,-,-,$24.46,https://jlcpcb.com
--,Shipping Fee,-,-,-,-,-,JLCPCB,-,-,$24.52,https://jlcpcb.com
--,TOTAL ORDER COST,-,-,-,-,-,-,-,-,$48.98,-
+-,Shipping Fee,-,-,-,-,-,JLCPCB,-,-,$17.44,https://jlcpcb.com
+-,TOTAL ORDER COST,-,-,-,-,-,-,-,-,$41.90,-
